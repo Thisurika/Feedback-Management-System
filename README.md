@@ -5,28 +5,28 @@ A Feedback Management System collects, organizes, and analyzes user feedback to 
 
 ## 🚀 Features
 
-- Create and submit new support tickets  
+- Submit new support tickets  
 - View all tickets in the system  
-- Open detailed ticket view  
-- Attach files to tickets  
-- Dashboard with ticket stats  
-- Update ticket status (Pending, In Progress, Resolved)
+- Check ticket details  
+- Upload attachments  
+- Dashboard with ticket statistics  
+- Update ticket status (Pending / In Progress / Resolved)
 
 ---
 
 ## 🖼️ Screenshots
 
 ### **1. Dashboard**
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ### **2. All Tickets Panel**
-![All Tickets](screenshots/all-tickets.png)
+![All Tickets](screenshots/all-tickets.jpeg)
 
-### **3. Ticket Details Page**
-![Ticket Details](screenshots/ticket-details.png)
+### **3. Ticket Details**
+![Ticket Details](screenshots/ticket-details.jpeg)
 
-### **4. Create Ticket Form**
-![Create Ticket](screenshots/create-ticket.png)
+### **4. Create Ticket Screen**
+![Create Ticket](screenshots/create-ticket.jpeg)
 
 
 ---
