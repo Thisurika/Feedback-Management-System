@@ -5,31 +5,51 @@ A Feedback Management System collects, organizes, and analyzes user feedback to 
 
 ## 🚀 Features
 
-- Create new support tickets  
-- Add descriptions and file attachments  
-- Track ticket status: Pending / In Progress / Resolved  
-- View all submitted tickets  
-- Download attached files  
-- Simple and clean Spring Boot + JPA architecture  
+- Create and submit new support tickets  
+- View all tickets in the system  
+- Open detailed ticket view  
+- Attach files to tickets  
+- Dashboard with ticket stats  
+- Update ticket status (Pending, In Progress, Resolved)
+
+---
+
+## 🖼️ Screenshots
+
+### **1. Dashboard**
+![Dashboard](screenshots/dashboard.png)
+
+### **2. All Tickets Panel**
+![All Tickets](screenshots/all-tickets.png)
+
+### **3. Ticket Details Page**
+![Ticket Details](screenshots/ticket-details.png)
+
+### **4. Create Ticket Form**
+![Create Ticket](screenshots/create-ticket.png)
+
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Java 17+  
+- Java 17  
 - Spring Boot  
 - Spring MVC  
 - Spring Data JPA  
 - H2 / MySQL  
 - Maven  
-- HTML / JSP / Thymeleaf (depending on your project)
+- HTML / JSP / Thymeleaf  
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚙️ How to Run
 
-1. Install **Java JDK 17** and **Maven**  
-2. Open the project in IntelliJ/VS Code  
-3. Update the database credentials in:
+1. Install JDK 17+ and Maven  
+2. Open project in IntelliJ or VS Code  
+3. Configure DB in:
+
+
+
 
 
